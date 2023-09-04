@@ -1,0 +1,22 @@
+.ravi{
+    color: red;
+    text-align: center;
+
+}
+
+.pushp{
+
+    color: aqua;
+    font-size: 500%;
+}
+
+*{
+    background-color: rgb(149, 169, 128);
+    
+}
+img{
+    float: center;
+    width: 50%;
+    height: 50%;
+    
+}
